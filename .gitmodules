@@ -1,0 +1,3 @@
+[submodule "libs/ulogger"]
+	path = libs/ulogger
+	url = git@github.com:SkyEng1neering/ulogger.git
